@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Desain Kamar 3D</title>
+    <link rel="icon" href="data:," />
+  </head>
+  <body>
+    <canvas id="scene"></canvas>
+
+    <aside id="panel">
+      <h1>Kamar Tidur 3D</h1>
+      <p class="sub">4 × 3 m · tinggi 3 m · modern minimalis</p>
+
+      <h2>Kamera</h2>
+      <div class="row">
+        <button data-view="luar">Luar</button>
+        <button data-view="dalam">Dalam</button>
+        <button data-view="atas">Atas</button>
+      </div>
+
+      <h2>Suasana</h2>
+      <div class="row">
+        <button data-mode="day">Siang</button>
+        <button data-mode="night">Malam</button>
+      </div>
+
+      <h2>Kualitas gambar</h2>
+      <div class="row">
+        <button data-quality="high">Tinggi</button>
+        <button data-quality="low">Ringan</button>
+      </div>
+
+      <h2>Tata letak furnitur</h2>
+      <p class="hint" id="selInfo">Klik furnitur di kamar lalu seret untuk memindahkan. Tombol <strong>R</strong> = putar 90°, <strong>Esc</strong> = batal pilih.</p>
+      <div class="row">
+        <button id="rotateSel" disabled>Putar 90°</button>
+        <button id="deselect" disabled>Batal pilih</button>
+      </div>
+      <div class="row gap-top">
+        <button id="saveLayout">Simpan tata letak</button>
+        <button id="loadLayout">Muat</button>
+      </div>
+      <button id="resetPositions" class="wide">Kembalikan tata letak awal</button>
+      <p id="arrangeMsg" class="status"></p>
+
+      <h2>Warna dinding</h2>
+      <div class="swatches" id="wallSwatches">
+        <input type="color" id="wallColor" value="#efe6d6" title="Pilih warna sendiri" />
+      </div>
+
+      <h2>Lantai kayu</h2>
+      <select id="floorTone"></select>
+
+      <h2>Ekspor model</h2>
+      <div class="row">
+        <button id="exportGlb">GLB</button>
+        <button id="exportStl">STL</button>
+      </div>
+      <p class="hint">GLB: lengkap dengan material (untuk Blender / web). STL: hanya bentuk, tanpa warna.</p>
+
+      <p id="layoutStatus" class="status"></p>
+    </aside>
+
+    <button id="toggleShop" class="toggle-shop">Katalog &amp; Belanja</button>
+
+    <aside id="shop" aria-label="Katalog produk dan daftar belanja">
+      <nav class="tabs" role="tablist">
+        <button data-tab="catalog" class="active">Katalog</button>
+        <button data-tab="room">Di kamar</button>
+        <button data-tab="cart">Belanja <span id="cartCount"></span></button>
+      </nav>
+
+      <div id="notice" class="notice" hidden></div>
+
+      <section data-pane="catalog" class="pane">
+        <div class="filters">
+          <input type="search" id="searchBox" placeholder="Cari nama produk atau kode…" aria-label="Cari produk" />
+          <div class="chips" id="storeChips"></div>
+          <select id="catFilter" aria-label="Kategori"></select>
+          <label class="check"><input type="checkbox" id="verifiedOnly" /> Hanya data terverifikasi</label>
+        </div>
+        <p class="hint"><span id="resultCount"></span> · <span id="catalogInfo"></span></p>
+        <div id="cards" class="cards"></div>
+      </section>
+
+      <section data-pane="room" class="pane" id="roomPane" hidden></section>
+
+      <section data-pane="cart" class="pane" id="cartPane" hidden></section>
+    </aside>
+
+    <p id="help">Seret furnitur: pindahkan · Seret area kosong: putar kamera · Scroll: zoom · Klik kanan + seret: geser</p>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

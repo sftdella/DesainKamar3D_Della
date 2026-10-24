@@ -1,0 +1,2546 @@
+{
+  "meta": {
+    "updated": "2026-10-24",
+    "currency": "IDR",
+    "notes": [
+      "Harga dan stok dapat berubah sewaktu-waktu dan bisa berbeda antar toko fisik/online.",
+      "Harga belum tentu mencakup ongkos kirim, biaya perakitan, atau promo yang berlaku.",
+      "Model 3D adalah pendekatan berdasarkan ukuran dan deskripsi produk, bukan model resmi dari toko/pabrikan.",
+      "Foto resmi produk tidak disertakan karena hak ciptanya milik toko; lihat foto di halaman produk resmi."
+    ]
+  },
+  "products": [
+    {
+      "id": "ikea-malm-160-oak-white",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "MALM rangka tempat tidur, tinggi, veneer kayu oak diwarnai putih, 160x200 cm",
+      "sku": "702.905.05",
+      "price": 2799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/malm-art-70290505",
+      "size": {
+        "w": 176,
+        "d": 209,
+        "h": 100
+      },
+      "specs": "Panjang: 209 cm; Lebar: 176 cm; Tinggi kaki ranjang: 38 cm; Tinggi papan kepala ranjang: 100 cm; Panjang kasur: 200 cm; Lebar kasur: 160 cm; Tinggi: 100 cm; Tinggi bebas di bawah perabot: 21 cm",
+      "model": {
+        "style": "panel",
+        "finish": "oak-white",
+        "foot": 38,
+        "deck": 22,
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tinggi alas kasur pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-malm-160-black-brown",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "MALM rangka tempat tidur, tinggi, hitam-cokelat, 160x200 cm",
+      "sku": "102.905.08",
+      "price": 2799000,
+      "stock": "OutOfStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/malm-art-10290508",
+      "size": {
+        "w": 176,
+        "d": 209,
+        "h": 100
+      },
+      "specs": "Panjang: 209 cm; Lebar: 176 cm; Tinggi kaki ranjang: 38 cm; Tinggi papan kepala ranjang: 100 cm; Panjang kasur: 200 cm; Lebar kasur: 160 cm; Tinggi: 100 cm; Tinggi bebas di bawah perabot: 21 cm",
+      "model": {
+        "style": "panel",
+        "finish": "black-brown",
+        "foot": 38,
+        "deck": 22,
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tinggi alas kasur pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-malm-120-white",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "MALM rangka tempat tidur, tinggi, putih, 120x200 cm",
+      "sku": "202.494.86",
+      "price": 2399000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/malm-art-20249486",
+      "size": {
+        "w": 135,
+        "d": 209,
+        "h": 100
+      },
+      "specs": "Panjang: 209 cm; Lebar: 135 cm; Tinggi kaki ranjang: 38 cm; Tinggi papan kepala ranjang: 100 cm; Panjang kasur: 200 cm; Lebar kasur: 120 cm; Tinggi: 100 cm; Tinggi bebas di bawah perabot: 21 cm",
+      "model": {
+        "style": "panel",
+        "finish": "white",
+        "foot": 38,
+        "deck": 22,
+        "mattress": [
+          120,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tinggi alas kasur pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-hemnes-160-white",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "HEMNES rangka tempat tidur, warna putih, 160x200 cm",
+      "sku": "703.543.90",
+      "price": 3199000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/hemnes-art-70354390",
+      "size": {
+        "w": 174,
+        "d": 211,
+        "h": 120
+      },
+      "specs": "Panjang: 211 cm; Lebar: 174 cm; Tinggi kaki ranjang: 66 cm; Tinggi papan kepala ranjang: 120 cm; Panjang kasur: 200 cm; Lebar kasur: 160 cm; Tinggi bebas di bawah perabot: 20 cm",
+      "model": {
+        "style": "posts",
+        "finish": "white",
+        "foot": 66,
+        "deck": 30,
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tinggi alas kasur pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-songesand-160-brown",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "SONGESAND rangka tempat tidur, cokelat, 160x200 cm",
+      "sku": "903.725.24",
+      "price": 1599000,
+      "stock": "OutOfStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/songesand-art-90372524",
+      "size": {
+        "w": 173,
+        "d": 207,
+        "h": 95
+      },
+      "specs": "Panjang: 207 cm; Lebar: 173 cm; Tinggi: 95 cm; Tinggi kaki ranjang: 41 cm; Tinggi papan kepala ranjang: 95 cm; Tinggi bebas di bawah perabot: 20 cm; Panjang kasur: 200 cm; Lebar kasur: 160 cm",
+      "model": {
+        "style": "posts",
+        "finish": "oak-dark",
+        "foot": 41,
+        "deck": 25,
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tinggi alas kasur pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-brimnes-160-storage-white",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "BRIMNES rangka tempat tidur dg penyimpanan, putih, 160x200 cm",
+      "sku": "303.543.54",
+      "price": 3999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/brimnes-art-30354354",
+      "size": {
+        "w": 166,
+        "d": 206,
+        "h": 47
+      },
+      "specs": "Tinggi laci (di dalam): 20 cm; Panjang: 206 cm; Lebar: 166 cm; Tinggi: 47 cm; Lebar laci (dalam): 94 cm; Kedalaman laci (bagian dalam): 54 cm; Beban maksimum/laci: 20 kg; Panjang kasur: 200 cm; Lebar kasur: 160 cm",
+      "model": {
+        "style": "storage",
+        "finish": "white",
+        "deck": 44,
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tinggi alas kasur pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-nordli-160-storage-white",
+      "store": "IKEA",
+      "category": "bed",
+      "name": "NORDLI rangka tempat tidur dg penyimpanan, putih, 160x200 cm",
+      "sku": "803.498.50",
+      "price": 6499000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/tempat-tidur/rangka-tempat-tidur-dan-tempat-tidur-dengan-sandaran-kepala-tanpa-pelapis/nordli-art-80349850",
+      "size": {
+        "w": 160,
+        "d": 202,
+        "h": 30
+      },
+      "specs": "Tinggi laci (di dalam): 16 cm; Panjang: 202 cm; Lebar: 160 cm; Tinggi: 30 cm; Lebar laci (dalam): 58 cm; Kedalaman laci (bagian dalam): 51 cm; Panjang kasur: 200 cm; Lebar kasur: 160 cm",
+      "model": {
+        "style": "storage",
+        "finish": "white",
+        "deck": 30,
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "informa-linford-iii-low-brown",
+      "store": "INFORMA",
+      "category": "bed",
+      "name": "Informa 160x200x17 cm Linford III Dipan Tempat Tidur Rendah - Cokelat",
+      "sku": "10508079",
+      "price": 1567200,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-160x200x17-cm-linford-i-i-i-dipan-tempat-tidur-rendah-cokelat.html",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 24
+      },
+      "specs": "Dimensi produk: 200 cm x 160 cm x 24 cm",
+      "model": {
+        "style": "divan",
+        "finish": "fabric-brown",
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, stok) dan teks \"Dimensi produk\".",
+        "note": "Harga yang tertera bisa merupakan harga promo saat diperiksa. Nama produk menyebut tinggi 17 cm, tetapi \"Dimensi produk\" menyebut 24 cm; model memakai 24 cm."
+      }
+    },
+    {
+      "id": "informa-my-foundation-brown",
+      "store": "INFORMA",
+      "category": "bed",
+      "name": "Informa 160x200x24 cm My Foundation Dipan - Cokelat",
+      "sku": "10104407",
+      "price": 1611600,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/dipan-my-foundation-160x200x24-cm-cokelat.html",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 24
+      },
+      "specs": "Dimensi produk: 160 cm x 200 cm x 24 cm",
+      "model": {
+        "style": "divan",
+        "finish": "fabric-brown",
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, stok) dan teks \"Dimensi produk\".",
+        "note": "Harga yang tertera bisa merupakan harga promo saat diperiksa."
+      }
+    },
+    {
+      "id": "informa-linford-iii-black",
+      "store": "INFORMA",
+      "category": "bed",
+      "name": "Informa 160x200 cm Linford III Dipan Tempat Tidur - Hitam",
+      "sku": "10508180",
+      "price": 1647200,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-160x200-cm-linford-i-i-i-dipan-tempat-tidur-hitam.html",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 24
+      },
+      "specs": "Dimensi produk: 200 cm x 160 cm x 24 cm",
+      "model": {
+        "style": "divan",
+        "finish": "fabric-dark-grey",
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, stok) dan teks \"Dimensi produk\".",
+        "note": "Harga yang tertera bisa merupakan harga promo saat diperiksa."
+      }
+    },
+    {
+      "id": "informa-linford-iii-grey",
+      "store": "INFORMA",
+      "category": "bed",
+      "name": "Informa 160x200 cm Linford III Dipan Tempat Tidur - Abu-Abu",
+      "sku": "10507587",
+      "price": 1647200,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-160x200-cm-linford-i-i-i-dipan-tempat-tidur-abu-abu.html",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 30
+      },
+      "specs": "Dimensi produk: 200 cm x 160 cm x 30 cm",
+      "model": {
+        "style": "divan",
+        "finish": "fabric-grey",
+        "mattress": [
+          160,
+          200
+        ]
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, stok) dan teks \"Dimensi produk\".",
+        "note": "Harga yang tertera bisa merupakan harga promo saat diperiksa."
+      }
+    },
+    {
+      "id": "ikea-valevag-160",
+      "store": "IKEA",
+      "category": "mattress",
+      "name": "VALEVÅG kasur kantong pegas, keras/biru muda, 160x200 cm",
+      "sku": "204.506.81",
+      "price": 3299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kasur-dan-aksesoris/kasur/valevag-art-20450681",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 24
+      },
+      "specs": "Panjang: 200 cm; Lebar: 160 cm; Ketebalan: 24 cm",
+      "model": {},
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-afjall-160",
+      "store": "IKEA",
+      "category": "mattress",
+      "name": "ÅFJÄLL kasur busa, keras/putih, 160x200 cm",
+      "sku": "105.699.54",
+      "price": 2499000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kasur-dan-aksesoris/kasur/afjall-art-10569954",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 12
+      },
+      "specs": "Panjang: 200 cm; Lebar: 160 cm; Ketebalan: 12 cm",
+      "model": {},
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-vagstranda-160",
+      "store": "IKEA",
+      "category": "mattress",
+      "name": "VÅGSTRANDA kasur kantong pegas, super keras/biru muda, 160x200 cm",
+      "sku": "106.082.29",
+      "price": 7999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kasur-dan-aksesoris/kasur/vagstranda-art-10608229",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 28
+      },
+      "specs": "Panjang: 200 cm; Lebar: 160 cm; Ketebalan: 28 cm",
+      "model": {},
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-valevag-120",
+      "store": "IKEA",
+      "category": "mattress",
+      "name": "VALEVÅG kasur kantong pegas, super keras/biru muda, 120x200 cm",
+      "sku": "905.699.88",
+      "price": 2999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kasur-dan-aksesoris/kasur/valevag-art-90569988",
+      "size": {
+        "w": 120,
+        "d": 200,
+        "h": 24
+      },
+      "specs": "Panjang: 200 cm; Lebar: 120 cm; Ketebalan: 24 cm",
+      "model": {},
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-afjall-120",
+      "store": "IKEA",
+      "category": "mattress",
+      "name": "ÅFJÄLL kasur busa, keras/putih, 120x200 cm",
+      "sku": "905.699.50",
+      "price": 1999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kasur-dan-aksesoris/kasur/afjall-art-90569950",
+      "size": {
+        "w": 120,
+        "d": 200,
+        "h": 12
+      },
+      "specs": "Panjang: 200 cm; Lebar: 120 cm; Ketebalan: 12 cm",
+      "model": {},
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "informa-cusco-160",
+      "store": "INFORMA",
+      "category": "mattress",
+      "name": "Informa Sleep 160x200x20 cm Cusco Kasur Pocket Springbed In Box - Putih",
+      "sku": "10659648",
+      "price": 1899000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-sleep-160x200x20-cm-cusco-kasur-pocket-springbed-in-box-putih.html",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 20
+      },
+      "specs": null,
+      "model": {},
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, kode, stok) dan teks \"Dimensi produk\".",
+        "note": "Harga, kode, dan stok dari halaman resmi. Halaman tidak mencantumkan \"Dimensi produk\"; ukuran diambil dari nama produk (160x200x20 cm)."
+      }
+    },
+    {
+      "id": "informa-selma-sare-160",
+      "store": "INFORMA",
+      "category": "mattress",
+      "name": "Selma 160x200x20 cm Sare Kasur Spring Pocket Roll Packed",
+      "sku": "10514126",
+      "price": 1999000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/selma-160x200x20-cm-sare-kasur-spring-pocket-roll-packed.html",
+      "size": {
+        "w": 160,
+        "d": 200,
+        "h": 20
+      },
+      "specs": null,
+      "model": {},
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, kode, stok) dan teks \"Dimensi produk\".",
+        "note": "Harga, kode, dan stok dari halaman resmi. Halaman tidak mencantumkan \"Dimensi produk\"; ukuran diambil dari nama produk (160x200x20 cm)."
+      }
+    },
+    {
+      "id": "ikea-kleppstad-sliding-white",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "KLEPPSTAD lemari pakaian dg pintu geser, putih, 117x55x176 cm",
+      "sku": "304.372.41",
+      "price": 2899000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/kleppstad-art-30437241",
+      "size": {
+        "w": 117,
+        "d": 55,
+        "h": 176
+      },
+      "specs": "Lebar: 117 cm; Kedalaman: 55 cm; Tinggi: 176 cm",
+      "model": {
+        "doors": "sliding",
+        "finish": "white",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-kleppstad-3door-white",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "KLEPPSTAD lemari pakaian 3 pintu, putih, 117x55x176 cm",
+      "sku": "804.417.59",
+      "price": 2399000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/kleppstad-art-80441759",
+      "size": {
+        "w": 117,
+        "d": 55,
+        "h": 176
+      },
+      "specs": "Lebar: 117 cm; Kedalaman: 55 cm; Tinggi: 176 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 3,
+        "finish": "white",
+        "handle": "knob",
+        "handleFinish": "metal-black"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-hauga-sliding-white",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "HAUGA lemari pakaian dg pintu geser, putih, 118x55x199 cm",
+      "sku": "404.569.17",
+      "price": 3999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/hauga-art-40456917",
+      "size": {
+        "w": 118,
+        "d": 55,
+        "h": 199
+      },
+      "specs": "Lebar: 118,0 cm; Kedalaman: 55,0 cm; Tinggi: 199,0 cm",
+      "model": {
+        "doors": "sliding",
+        "finish": "white",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-hauga-sliding-beige",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "HAUGA lemari pakaian dg pintu geser, krem, 118x55x199 cm",
+      "sku": "104.569.14",
+      "price": 3999000,
+      "stock": "OutOfStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/hauga-art-10456914",
+      "size": {
+        "w": 118,
+        "d": 55,
+        "h": 199
+      },
+      "specs": "Lebar: 118,0 cm; Kedalaman: 55,0 cm; Tinggi: 199,0 cm",
+      "model": {
+        "doors": "sliding",
+        "finish": "cream",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-brimnes-3door-white",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "BRIMNES lemari pakaian 3 pintu, putih, 117x50x190 cm",
+      "sku": "104.079.28",
+      "price": 3499000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/brimnes-art-10407928",
+      "size": {
+        "w": 117,
+        "d": 50,
+        "h": 190
+      },
+      "specs": "Lebar: 117 cm; Kedalaman: 50 cm; Tinggi: 190 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 3,
+        "finish": "white",
+        "handle": "knob",
+        "handleFinish": "metal-white"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-vihals-2door-white",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "VIHALS lemari pakaian 2 pintu, putih, 105x57x200 cm",
+      "sku": "404.832.56",
+      "price": 3999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/vihals-art-40483256",
+      "size": {
+        "w": 105,
+        "d": 57,
+        "h": 200
+      },
+      "specs": "Lebar: 105 cm; Kedalaman: 57 cm; Tinggi: 200 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 2,
+        "finish": "white",
+        "handle": "bar",
+        "handleFinish": "metal-black"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-rakkestad-2door-black-brown",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "RAKKESTAD lemari pakaian 2 pintu, hitam-cokelat, 79x176 cm",
+      "sku": "304.537.59",
+      "price": 1999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/rakkestad-art-30453759",
+      "size": {
+        "w": 79,
+        "d": 55,
+        "h": 176
+      },
+      "specs": "Lebar: 79 cm; Kedalaman: 55 cm; Tinggi: 176 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 2,
+        "finish": "black-brown",
+        "handle": "knob",
+        "handleFinish": "metal-black"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-musken-2door-3drawer-white",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "MUSKEN lemari pakaian 2 pintu+3 laci, putih, 124x60x201 cm",
+      "sku": "503.786.84",
+      "price": 4999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/musken-art-50378684",
+      "size": {
+        "w": 124,
+        "d": 60,
+        "h": 201
+      },
+      "specs": "Lebar: 124,2 cm; Kedalaman: 60,0 cm; Tinggi: 200,5 cm; Lebar laci (dalam): 53 cm; Kedalaman laci (bagian dalam): 53 cm; Plinth, tinggi: 7,5 cm; Beban maksimum/rak: 20 kg; Beban maksimum/laci: 12 kg",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 2,
+        "drawers": 3,
+        "finish": "white",
+        "handle": "bar",
+        "handleFinish": "metal-grey"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-kronoren-open-pine",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "KRONÖREN lemari pakaian terbuka, kayu pinus, 90x49x181 cm",
+      "sku": "206.108.06",
+      "price": 1299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/kronoren-art-20610806",
+      "size": {
+        "w": 90,
+        "d": 49,
+        "h": 181
+      },
+      "specs": "Kedalaman: 49 cm; Tinggi: 181 cm; Lebar: 90 cm",
+      "model": {
+        "doors": "open",
+        "finish": "pine"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-gursken-1door-beige",
+      "store": "IKEA",
+      "category": "wardrobe",
+      "name": "GURSKEN lemari pakaian, krem muda, 49x55x186 cm",
+      "sku": "505.032.92",
+      "price": 1299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari/lemari-pakaian/gursken-art-50503292",
+      "size": {
+        "w": 49,
+        "d": 55,
+        "h": 186
+      },
+      "specs": "Kedalaman: 55,0 cm; Tinggi: 185,7 cm; Lebar: 49,4 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 1,
+        "finish": "cream",
+        "handle": "bar",
+        "handleFinish": "metal-grey",
+        "legs": 10
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "azko-stora-kaira-2door-white",
+      "store": "AZKO",
+      "category": "wardrobe",
+      "name": "Stora Kaira Lemari Pakaian 2 Pintu 80x50x157 cm - Putih",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/stora-kaira-lemari-pakaian-2-pintu-80x50x157-cm-putih.html",
+      "size": {
+        "w": 80,
+        "d": 50,
+        "h": 157
+      },
+      "specs": null,
+      "model": {
+        "doors": "hinged",
+        "doorCount": 2,
+        "finish": "white",
+        "handle": "bar"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "azko-masterspace-sliding-90-white",
+      "store": "AZKO",
+      "category": "wardrobe",
+      "name": "Masterspace 90x55x195 cm Lemari Pakaian 2 Pintu Geser - Putih",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/masterspace-90x55x195-cm-lemari-pakaian-2-pintu-geser-putih.html",
+      "size": {
+        "w": 90,
+        "d": 55,
+        "h": 195
+      },
+      "specs": null,
+      "model": {
+        "doors": "sliding",
+        "finish": "white",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "azko-masterspace-sliding-122-white",
+      "store": "AZKO",
+      "category": "wardrobe",
+      "name": "Masterspace Lemari Pakaian 2 Pintu Geser 122x55x195 cm - Putih",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/masterspace-lemari-pakaian-2-pintu-geser-122x55x195-cm-putih.html",
+      "size": {
+        "w": 122,
+        "d": 55,
+        "h": 195
+      },
+      "specs": null,
+      "model": {
+        "doors": "sliding",
+        "finish": "white",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "informa-kiev-metal-3door-white",
+      "store": "INFORMA",
+      "category": "wardrobe",
+      "name": "Informa Kiev Lemari Pakaian Metal 3 Pintu 120x45x180 cm - Putih",
+      "sku": "10672856",
+      "price": 2599000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-kiev-lemari-pakaian-metal-3-pintu-120x45x180-cm-putih.html",
+      "size": {
+        "w": 120,
+        "d": 45,
+        "h": 180
+      },
+      "specs": "Dimensi produk: 120 cm x 45 cm x 180 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 3,
+        "finish": "metal-white",
+        "handle": "bar",
+        "legs": 5
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, kode, stok) dan teks \"Dimensi produk\".",
+        "note": "Ukuran model sudah dicocokkan dengan \"Dimensi produk\" di halaman resmi."
+      }
+    },
+    {
+      "id": "informa-lena-2door-shelf-cream",
+      "store": "INFORMA",
+      "category": "wardrobe",
+      "name": "Informa Lena Lemari Pakaian 2 Pintu Dengan Rak 170x50x200 cm - Krem",
+      "sku": "10681575",
+      "price": 5799000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-lena-lemari-pakaian-2-pintu-dengan-rak-170x50x200-cm-krem.html",
+      "size": {
+        "w": 170,
+        "d": 50,
+        "h": 200
+      },
+      "specs": "Dimensi produk: 170 cm x 50 cm x 200 cm",
+      "model": {
+        "doors": "hinged",
+        "doorCount": 2,
+        "finish": "cream",
+        "handle": "bar",
+        "handleFinish": "brass"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, kode, stok) dan teks \"Dimensi produk\".",
+        "note": "Ukuran model sudah dicocokkan dengan \"Dimensi produk\" di halaman resmi."
+      }
+    },
+    {
+      "id": "ikea-grafjallet-nightstand-white",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "GRÅFJÄLLET meja samping tempat tidur, putih, 45x36x59 cm",
+      "sku": "805.831.07",
+      "price": 699000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/grafjallet-art-80583107",
+      "size": {
+        "w": 45,
+        "d": 36,
+        "h": 59
+      },
+      "specs": "Kedalaman: 36 cm; Tinggi bebas di bawah perabot: 16 cm; Tinggi: 59 cm; Lebar: 45 cm",
+      "model": {
+        "finish": "white",
+        "drawers": 1,
+        "open": true,
+        "legs": 16,
+        "legFinish": "white",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-grafjallet-nightstand-anthracite",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "GRÅFJÄLLET meja samping tempat tidur, antrasit, 45x36x59 cm",
+      "sku": "405.702.20",
+      "price": 699000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/grafjallet-art-40570220",
+      "size": {
+        "w": 45,
+        "d": 36,
+        "h": 59
+      },
+      "specs": "Kedalaman: 36 cm; Tinggi bebas di bawah perabot: 16 cm; Tinggi: 59 cm; Lebar: 45 cm",
+      "model": {
+        "finish": "anthracite",
+        "drawers": 1,
+        "open": true,
+        "legs": 16,
+        "legFinish": "anthracite",
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-musken-nightstand-white",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "MUSKEN meja samping tempat tidur, putih, 45x58 cm",
+      "sku": "503.786.79",
+      "price": 699000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/musken-art-50378679",
+      "size": {
+        "w": 45,
+        "d": 38,
+        "h": 58
+      },
+      "specs": "Lebar: 45 cm; Kedalaman: 38 cm; Tinggi: 58,0 cm; Tinggi bebas di bawah perabot: 20 cm; Beban maksimum/rak: 15 kg",
+      "model": {
+        "finish": "white",
+        "drawers": 1,
+        "open": true,
+        "legs": 20,
+        "handle": "bar",
+        "handleFinish": "metal-grey"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-brimnes-nightstand-white",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "BRIMNES meja samping tempat tidur, putih, 39x41x53 cm",
+      "sku": "003.540.63",
+      "price": 799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/brimnes-art-00354063",
+      "size": {
+        "w": 39,
+        "d": 41,
+        "h": 53
+      },
+      "specs": "Lebar: 39 cm; Kedalaman: 41 cm; Tinggi: 53 cm; Lebar laci (dalam): 31 cm; Kedalaman laci (bagian dalam): 36 cm",
+      "model": {
+        "finish": "white",
+        "drawers": 1,
+        "open": true,
+        "handle": "knob",
+        "handleFinish": "metal-white"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-hauga-nightstand-white",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "HAUGA meja samping tempat tidur, putih, 40x36 cm",
+      "sku": "804.889.64",
+      "price": 799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/hauga-art-80488964",
+      "size": {
+        "w": 40,
+        "d": 36,
+        "h": 63
+      },
+      "specs": "Lebar: 40 cm; Tinggi: 63 cm; Kedalaman: 36 cm; Kedalaman laci (bagian dalam): 28 cm",
+      "model": {
+        "finish": "white",
+        "drawers": 1,
+        "open": true,
+        "legs": 12,
+        "handle": "bar",
+        "handleFinish": "metal-grey"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-radmanso-nightstand-walnut",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "RÅDMANSÖ meja samping tempat tidur, cokelat kesan kayu walnut, 54x38x58 cm",
+      "sku": "005.938.22",
+      "price": 1399000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/radmanso-art-00593822",
+      "size": {
+        "w": 54,
+        "d": 38,
+        "h": 58
+      },
+      "specs": "Kedalaman: 38 cm; Kedalaman laci (bagian dalam): 28 cm; Tinggi bebas di bawah perabot: 32 cm; Tinggi: 58 cm; Tinggi laci (di dalam): 8 cm; Lebar: 54 cm; Lebar laci (dalam): 46 cm",
+      "model": {
+        "finish": "walnut",
+        "drawers": 1,
+        "legs": 32,
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-knarrevik-nightstand-black",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "KNARREVIK meja samping tempat tidur, hitam, 37x28x45 cm",
+      "sku": "805.763.19",
+      "price": 129000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/knarrevik-art-80576319",
+      "size": {
+        "w": 37,
+        "d": 28,
+        "h": 45
+      },
+      "specs": "Lebar: 37 cm; Kedalaman: 28 cm; Tinggi: 45 cm",
+      "model": {
+        "finish": "metal-black",
+        "drawers": 0,
+        "open": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-fagelfjallet-nightstand-black-oak",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "FÅGELFJÄLLET meja samping tempat tidur, hitam efek kayu oak, 42x41x56 cm",
+      "sku": "406.145.49",
+      "price": 799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/fagelfjallet-art-40614549",
+      "size": {
+        "w": 42,
+        "d": 41,
+        "h": 56
+      },
+      "specs": "Kedalaman: 41 cm; Tinggi: 56 cm; Lebar: 42 cm",
+      "model": {
+        "finish": "oak-dark",
+        "drawers": 2,
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-gullaberg-nightstand-white",
+      "store": "IKEA",
+      "category": "nightstand",
+      "name": "GULLABERG meja samping tempat tidur, dengan 1 laci dengan pintu/putih, 38x40x75 cm",
+      "sku": "905.617.65",
+      "price": 1799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lemari-berlaci-dan-perabot-lainnya/meja-samping-tempat-tidur/gullaberg-art-90561765",
+      "size": {
+        "w": 38,
+        "d": 40,
+        "h": 75
+      },
+      "specs": "Kedalaman: 40 cm; Kedalaman laci (bagian dalam): 30 cm; Tinggi bebas di bawah perabot: 19 cm; Tinggi: 75 cm; Tinggi laci (di dalam): 6 cm; Lebar: 38 cm; Lebar laci (dalam): 21 cm",
+      "model": {
+        "finish": "white",
+        "door": true,
+        "legs": 19,
+        "handle": "knob",
+        "handleFinish": "brass"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-micke-105-white",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "MICKE meja, putih, 105x50 cm",
+      "sku": "803.542.76",
+      "price": 1799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/micke-art-80354276",
+      "size": {
+        "w": 105,
+        "d": 50,
+        "h": 75
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maks. laci kecil: 1 kg; Beban maksimum/laci: 31 kg; Beban maksimum/rak: 8 kg; Lebar: 105 cm; Kedalaman: 50 cm; Tinggi: 75 cm",
+      "model": {
+        "finish": "white",
+        "legs": "panel",
+        "unit": "right",
+        "unitW": 35,
+        "unitDrawers": 2,
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-micke-105-black-brown",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "MICKE meja, hitam-cokelat, 105x50 cm",
+      "sku": "003.542.75",
+      "price": 1799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/micke-art-00354275",
+      "size": {
+        "w": 105,
+        "d": 50,
+        "h": 75
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maks. laci kecil: 1 kg; Beban maksimum/laci: 31 kg; Beban maksimum/rak: 8 kg; Lebar: 105 cm; Kedalaman: 50 cm; Tinggi: 75 cm",
+      "model": {
+        "finish": "black-brown",
+        "legs": "panel",
+        "unit": "right",
+        "unitW": 35,
+        "unitDrawers": 2,
+        "handle": "groove"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-micke-73-white",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "MICKE meja, putih, 73x50 cm",
+      "sku": "803.542.81",
+      "price": 999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/micke-art-80354281",
+      "size": {
+        "w": 73,
+        "d": 50,
+        "h": 75
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maksimum/laci: 3 kg; Lebar: 73 cm; Kedalaman: 50 cm; Tinggi: 75 cm; Tinggi bebas di bawah perabot: 63 cm; Lebar laci (dalam): 62 cm; Kedalaman laci (bagian dalam): 36 cm",
+      "model": {
+        "finish": "white",
+        "legs": "panel",
+        "drawer": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-micke-142-white",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "MICKE meja, putih, 142x50 cm",
+      "sku": "403.542.78",
+      "price": 1999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/micke-art-40354278",
+      "size": {
+        "w": 142,
+        "d": 50,
+        "h": 75
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maksimum/laci: 3 kg; Lebar: 142 cm; Kedalaman: 50 cm; Tinggi: 75 cm; Tinggi bebas di bawah perabot: 63 cm; Lebar laci (dalam): 62 cm; Kedalaman laci (bagian dalam): 36 cm",
+      "model": {
+        "finish": "white",
+        "legs": "panel",
+        "drawer": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-alex-100-white",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "ALEX meja, putih, 100x48 cm",
+      "sku": "304.735.59",
+      "price": 1999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/alex-art-30473559",
+      "size": {
+        "w": 100,
+        "d": 48,
+        "h": 76
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maksimum/laci: 1 kg; Lebar: 100 cm; Kedalaman: 48 cm; Tinggi: 76 cm; Tinggi bebas di bawah perabot: 62 cm; Lebar laci (dalam): 44 cm; Kedalaman laci (bagian dalam): 31 cm",
+      "model": {
+        "finish": "white",
+        "legs": "panel",
+        "drawer": true,
+        "top": 76
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-alex-100-oak-white",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "ALEX meja, diwarnai putih/efek kayu oak, 100x48 cm",
+      "sku": "904.735.61",
+      "price": 1999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/alex-art-90473561",
+      "size": {
+        "w": 100,
+        "d": 48,
+        "h": 76
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maksimum/laci: 1 kg; Lebar: 100 cm; Kedalaman: 48 cm; Tinggi: 76 cm; Tinggi bebas di bawah perabot: 62 cm; Lebar laci (dalam): 44 cm; Kedalaman laci (bagian dalam): 31 cm",
+      "model": {
+        "finish": "oak-white",
+        "legs": "panel",
+        "drawer": true,
+        "top": 76
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-malm-desk-140-white",
+      "store": "IKEA",
+      "category": "desk",
+      "name": "MALM meja, putih, 140x65 cm",
+      "sku": "503.617.54",
+      "price": 2499000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/meja-kerja/malm-art-50361754",
+      "size": {
+        "w": 140,
+        "d": 65,
+        "h": 73
+      },
+      "specs": "Beban maksimum: 50 kg; Beban maksimum/laci: 1 kg; Beban maksimum/rak: 14 kg; Lebar: 140 cm; Kedalaman: 65 cm; Tinggi: 73 cm; Tinggi bebas di bawah perabot: 68 cm; Lebar laci (dalam): 32 cm; Kedalaman laci (bagian dalam): 39 cm",
+      "model": {
+        "finish": "white",
+        "legs": "panel",
+        "drawer": true,
+        "top": 73
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "informa-biel-deux-white",
+      "store": "INFORMA",
+      "category": "desk",
+      "name": "Informa Biel Deux Meja Belajar Anak - Putih",
+      "sku": "10632266",
+      "price": 2599000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-biel-deux-meja-belajar-putih.html",
+      "size": {
+        "w": 110,
+        "d": 55,
+        "h": 117
+      },
+      "specs": "Dimensi produk: 110 cm x 55 cm x 117 cm",
+      "model": {
+        "finish": "white",
+        "topFinish": "oak",
+        "legs": "panel",
+        "unit": "left",
+        "unitW": 35,
+        "unitDrawers": 1,
+        "top": 75,
+        "hutchD": 25
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, stok) dan teks \"Dimensi produk\".",
+        "note": "Tinggi daun meja (75 cm) dan susunan rak atas pada model adalah perkiraan."
+      }
+    },
+    {
+      "id": "ikea-kullaberg-black",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "KULLABERG kursi putar, hitam",
+      "sku": "703.255.19",
+      "price": 999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/kursi-putar/kullaberg-art-70325519",
+      "size": {
+        "w": 58,
+        "d": 58,
+        "h": 83
+      },
+      "specs": "Diuji untuk: 110 kg; Lebar: 58 cm; Kedalaman: 58 cm; Ketinggian maksimum: 94 cm; Lebar dudukan: 42 cm; Kedalaman dudukan: 39 cm; Ketinggian minimum tempat duduk: 44 cm; Ketinggian maksimum tempat duduk: 55 cm",
+      "model": {
+        "style": "office",
+        "finish": "black-brown",
+        "frameFinish": "metal-black",
+        "seat": 44
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Model memakai posisi dudukan terendah."
+      }
+    },
+    {
+      "id": "ikea-smallen-black",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "SMÄLLEN kursi putar, hitam",
+      "sku": "105.034.68",
+      "price": 499000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/kursi-putar/smallen-art-10503468",
+      "size": {
+        "w": 65,
+        "d": 65,
+        "h": 73
+      },
+      "specs": "Diuji untuk: 110 kg; Lebar: 65 cm; Kedalaman: 65 cm; Ketinggian maksimum: 85 cm; Ketinggian maksimum tempat duduk: 52 cm; Ketinggian minimum tempat duduk: 40 cm; Kedalaman dudukan: 39 cm; Lebar dudukan: 40 cm",
+      "model": {
+        "style": "office",
+        "finish": "fabric-dark-grey",
+        "frameFinish": "metal-black",
+        "seat": 40
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Model memakai posisi dudukan terendah."
+      }
+    },
+    {
+      "id": "ikea-renberget-black",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "RENBERGET kursi putar, Bomstad hitam",
+      "sku": "204.935.48",
+      "price": 799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/kursi-putar/renberget-art-20493548",
+      "size": {
+        "w": 67,
+        "d": 67,
+        "h": 100
+      },
+      "specs": "Diuji untuk: 110 kg; Lebar: 67 cm; Kedalaman: 67 cm; Ketinggian maksimum: 111 cm; Ketinggian minimum: 100 cm; Lebar dudukan: 48 cm; Kedalaman dudukan: 43 cm; Ketinggian maksimum tempat duduk: 55 cm; Ketinggian minimum tempat duduk: 44 cm",
+      "model": {
+        "style": "office",
+        "finish": "black",
+        "frameFinish": "metal-black",
+        "seat": 44,
+        "arms": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Model memakai posisi dudukan terendah."
+      }
+    },
+    {
+      "id": "ikea-millberget-beige",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "MILLBERGET kursi putar, Murum krem",
+      "sku": "104.893.92",
+      "price": 1799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/ruang-kerja-di-rumah/kursi-putar/millberget-art-10489392",
+      "size": {
+        "w": 70,
+        "d": 70,
+        "h": 110
+      },
+      "specs": "Diuji untuk: 110 kg; Lebar: 70 cm; Kedalaman: 70 cm; Ketinggian maksimum: 123 cm; Lebar dudukan: 50 cm; Kedalaman dudukan: 46 cm; Ketinggian maksimum tempat duduk: 58 cm; Ketinggian minimum tempat duduk: 45 cm",
+      "model": {
+        "style": "office",
+        "finish": "fabric-cream",
+        "frameFinish": "metal-black",
+        "seat": 45,
+        "arms": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Model memakai posisi dudukan terendah."
+      }
+    },
+    {
+      "id": "ikea-teodores-white",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "TEODORES kursi, putih",
+      "sku": "703.509.38",
+      "price": 450000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kursi-makan/kursi-tanpa-pelapis/teodores-art-70350938",
+      "size": {
+        "w": 46,
+        "d": 54,
+        "h": 80
+      },
+      "specs": "Diuji untuk: 110 kg; Lebar: 46 cm; Kedalaman: 54 cm; Tinggi: 80 cm; Lebar dudukan: 40 cm; Kedalaman dudukan: 37 cm; Tinggi dudukan: 45 cm",
+      "model": {
+        "style": "shell",
+        "finish": "plastic-white",
+        "frameFinish": "metal-white",
+        "seat": 45
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-lisabo-ash",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "LISABO kursi, kayu ash",
+      "sku": "804.572.36",
+      "price": 995000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kursi-makan/kursi-tanpa-pelapis/lisabo-art-80457236",
+      "size": {
+        "w": 46,
+        "d": 51,
+        "h": 80
+      },
+      "specs": "Lebar: 46 cm; Kedalaman: 51 cm; Tinggi: 80 cm; Lebar dudukan: 44 cm; Kedalaman dudukan: 39 cm; Tinggi dudukan: 45 cm; Diuji untuk: 110 kg",
+      "model": {
+        "style": "wood",
+        "finish": "oak",
+        "seat": 45
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-odger-white-beige",
+      "store": "IKEA",
+      "category": "chair",
+      "name": "ODGER kursi, putih/krem",
+      "sku": "403.599.97",
+      "price": 1495000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/kursi-makan/kursi-tanpa-pelapis/odger-art-40359997",
+      "size": {
+        "w": 45,
+        "d": 51,
+        "h": 81
+      },
+      "specs": "Diuji untuk: 110 kg; Lebar: 45 cm; Kedalaman: 51 cm; Tinggi: 81 cm; Lebar dudukan: 45 cm; Kedalaman dudukan: 41 cm; Tinggi dudukan: 43 cm",
+      "model": {
+        "style": "shell",
+        "finish": "cream",
+        "frameFinish": "oak",
+        "seat": 43
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-arstid-nickel-white",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "ÅRSTID lampu meja, dilapisi nikel/putih",
+      "sku": "702.806.34",
+      "price": 329000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja/arstid-art-70280634",
+      "size": {
+        "w": 22,
+        "d": 22,
+        "h": 55
+      },
+      "specs": "Maks.: 75 W; Tinggi: 55 cm; Diameter dasar: 15 cm; Diameter kap lampu: 22 cm; Panjang kabel: 203 cm",
+      "model": {
+        "style": "table",
+        "finish": "chrome",
+        "shade": "#f4efe6",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Lebar & kedalaman model = diameter kap lampu."
+      }
+    },
+    {
+      "id": "ikea-lampan-white",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "LAMPAN lampu meja, putih, 29 cm",
+      "sku": "200.469.88",
+      "price": 99900,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja/lampan-art-20046988",
+      "size": {
+        "w": 19,
+        "d": 19,
+        "h": 29
+      },
+      "specs": "Maks.: 40 W; Tinggi: 29 cm; Diameter dasar: 13 cm; Diameter kap lampu: 19 cm; Panjang kabel: 130 cm",
+      "model": {
+        "style": "table",
+        "finish": "plastic-white",
+        "shade": "#f7f5f0",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Lebar & kedalaman model = diameter kap lampu."
+      }
+    },
+    {
+      "id": "ikea-blidvader-ceramic-beige",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "BLIDVÄDER lampu meja, putih pudar keramik/krem, 50 cm",
+      "sku": "805.012.58",
+      "price": 849000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja/blidvader-art-80501258",
+      "size": {
+        "w": 30,
+        "d": 30,
+        "h": 50
+      },
+      "specs": "Diameter dasar: 17 cm; Panjang kabel: 2,3 m; Tinggi: 50 cm; Maks.: 16 W; Lebar kap lampu: 30 cm; Tinggi dasar: 24 cm",
+      "model": {
+        "style": "table",
+        "finish": "cream",
+        "shade": "#efe6d6",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Lebar & kedalaman model = lebar kap lampu."
+      }
+    },
+    {
+      "id": "ikea-halgatt-beige-brown",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "HALGATT lampu meja, dapat diredupkan krem/cokelat keramik, 49 cm",
+      "sku": "505.972.24",
+      "price": 599000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja/halgatt-art-50597224",
+      "size": {
+        "w": 32,
+        "d": 32,
+        "h": 49
+      },
+      "specs": "Diameter dasar: 16 cm; Maks. daya/bohlam: 9,5 W; Total tinggi: 49 cm; Diameter kap lampu: 32 cm",
+      "model": {
+        "style": "table",
+        "finish": "teak",
+        "shade": "#eadfcb",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Lebar & kedalaman model = diameter kap lampu."
+      }
+    },
+    {
+      "id": "ikea-spetsboj-white",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "SPETSBOJ lampu meja, dapat diredupkan/putih, 22 cm",
+      "sku": "505.862.92",
+      "price": 149000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja/spetsboj-art-50586292",
+      "size": {
+        "w": 12,
+        "d": 12,
+        "h": 22
+      },
+      "specs": "Diameter dasar: 8 cm; Diameter: 12 cm; Tinggi: 22 cm; Daya listrik: 4,5 W",
+      "model": {
+        "style": "dome",
+        "finish": "plastic-white",
+        "shade": "#f8f4ec",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-skurup-black",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "SKURUP lampu kerja, hitam",
+      "sku": "805.167.78",
+      "price": 299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja-dan-lampu-jepit/skurup-art-80516778",
+      "size": {
+        "w": 17,
+        "d": 17,
+        "h": 40
+      },
+      "specs": "Diameter dasar: 17 cm; Panjang kabel: 2,0 m; Tinggi: 40 cm; Maks.: 8,5 W; Diameter kap lampu: 16 cm",
+      "model": {
+        "style": "task",
+        "finish": "metal-black",
+        "use": "desk"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Lebar & kedalaman model = diameter dasar lampu."
+      }
+    },
+    {
+      "id": "ikea-forsa-nickel",
+      "store": "IKEA",
+      "category": "lamp",
+      "name": "FORSÅ lampu kerja, dilapisi nikel",
+      "sku": "801.467.63",
+      "price": 399000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/lampu/lampu-meja-dan-lampu-jepit/forsa-art-80146763",
+      "size": {
+        "w": 15,
+        "d": 15,
+        "h": 35
+      },
+      "specs": "Maks.: 40 W; Tinggi: 35 cm; Diameter dasar: 15 cm; Diameter kap lampu: 12 cm; Panjang kabel: 1,8 m",
+      "model": {
+        "style": "task",
+        "finish": "chrome",
+        "use": "desk"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Lebar & kedalaman model = diameter dasar lampu."
+      }
+    },
+    {
+      "id": "informa-scarlett-white-silver",
+      "store": "INFORMA",
+      "category": "lamp",
+      "name": "Informa 28x28x55.8 cm Scarlett Lampu Meja - Putih Silver",
+      "sku": "10565163",
+      "price": 599000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-28x28x55-8-cm-scarlett-lampu-meja-putih-silver.html",
+      "size": {
+        "w": 28,
+        "d": 28,
+        "h": 55.8
+      },
+      "specs": "Dimensi produk: 28 cm x 28 cm x 55.8 cm",
+      "model": {
+        "style": "table",
+        "finish": "chrome",
+        "shade": "#f6f3ee",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, kode, stok) dan teks \"Dimensi produk\".",
+        "note": "Ukuran model sudah dicocokkan dengan \"Dimensi produk\" di halaman resmi."
+      }
+    },
+    {
+      "id": "informa-julie-white-green",
+      "store": "INFORMA",
+      "category": "lamp",
+      "name": "Informa 15x31 cm Julie Lampu Meja - Putih Hijau",
+      "sku": "10567974",
+      "price": 139000,
+      "stock": "InStock",
+      "url": "https://www.ruparupa.com/informastore/p/informa-15x31-cm-julie-lampu-meja-putih-hijau.html",
+      "size": {
+        "w": 15,
+        "d": 15,
+        "h": 31
+      },
+      "specs": "Dimensi produk: 15 cm x 15 cm x 31 cm",
+      "model": {
+        "style": "dome",
+        "finish": "sage",
+        "shade": "#f4f6ef",
+        "use": "bedside"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi di ruparupa.com (toko online resmi INFORMA/AZKO, grup Kawan Lama): data terstruktur (nama, harga, kode, stok) dan teks \"Dimensi produk\".",
+        "note": "Ukuran model sudah dicocokkan dengan \"Dimensi produk\" di halaman resmi."
+      }
+    },
+    {
+      "id": "ikea-bergshult-tomthult-80-white",
+      "store": "IKEA",
+      "category": "shelf",
+      "name": "BERGSHULT/TOMTHULT rak dengan braket, putih, 80x20 cm",
+      "sku": "594.183.22",
+      "price": 239000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/penyimpanan/ambalan-tempat-penyimpanan/bergshult-tomthult-spr-59418322",
+      "size": {
+        "w": 80,
+        "d": 20,
+        "h": 2.5
+      },
+      "specs": "Kedalaman: 20 cm; Beban maksimum: 10 kg; Lebar: 80 cm",
+      "model": {
+        "style": "bracket",
+        "finish": "white",
+        "bracketFinish": "metal-white"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tebal papan 2,5 cm dari halaman BERGSHULT."
+      }
+    },
+    {
+      "id": "ikea-bergshult-sandshult-80-white-aspen",
+      "store": "IKEA",
+      "category": "shelf",
+      "name": "BERGSHULT/SANDSHULT rak dinding, putih/aspen, 80x20 cm",
+      "sku": "093.260.37",
+      "price": 229000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/penyimpanan/ambalan-tempat-penyimpanan/bergshult-sandshult-spr-09326037",
+      "size": {
+        "w": 80,
+        "d": 20,
+        "h": 2.5
+      },
+      "specs": "Lebar: 80 cm; Kedalaman: 20 cm; Beban maksimum: 10 kg",
+      "model": {
+        "style": "bracket",
+        "finish": "white",
+        "bracketFinish": "pine"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tebal papan 2,5 cm dari halaman BERGSHULT."
+      }
+    },
+    {
+      "id": "ikea-burhult-sandshult-59-white",
+      "store": "IKEA",
+      "category": "shelf",
+      "name": "BURHULT/SANDSHULT rak dinding, putih/aspen berlapis putih, 59x20 cm",
+      "sku": "193.259.85",
+      "price": 119000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/penyimpanan/ambalan-tempat-penyimpanan/burhult-sandshult-spr-19325985",
+      "size": {
+        "w": 59,
+        "d": 20,
+        "h": 1.5
+      },
+      "specs": "Lebar: 59 cm; Kedalaman: 20 cm; Beban maksimum: 10 kg",
+      "model": {
+        "style": "bracket",
+        "finish": "white",
+        "bracketFinish": "pine"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "Tebal papan 1,5 cm dari halaman BURHULT."
+      }
+    },
+    {
+      "id": "ikea-lack-110-black-brown",
+      "store": "IKEA",
+      "category": "shelf",
+      "name": "LACK rak dinding, hitam-cokelat, 110x26 cm",
+      "sku": "001.861.83",
+      "price": 299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/penyimpanan/ambalan-tempat-penyimpanan/lack-art-00186183",
+      "size": {
+        "w": 110,
+        "d": 26,
+        "h": 5
+      },
+      "specs": "Panjang: 110 cm; Kedalaman: 26 cm; Ketebalan: 5 cm; Beban maksimum: 10 kg",
+      "model": {
+        "style": "plank",
+        "finish": "black-brown"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-lack-110-oak-white",
+      "store": "IKEA",
+      "category": "shelf",
+      "name": "LACK rak dinding, efek kayu oak diwarnai putih, 110x26 cm",
+      "sku": "504.182.13",
+      "price": 299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/penyimpanan/ambalan-tempat-penyimpanan/lack-art-50418213",
+      "size": {
+        "w": 110,
+        "d": 26,
+        "h": 5
+      },
+      "specs": "Lebar: 110 cm; Kedalaman: 26 cm; Ketebalan: 5 cm; Beban maksimum: 10 kg",
+      "model": {
+        "style": "plank",
+        "finish": "oak-white"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "azko-masterspace-90-oak",
+      "store": "AZKO",
+      "category": "shelf",
+      "name": "Masterspace 90x20x1.8 cm Rak Dinding - Cokelat Oak",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/masterspace-90x20x1-8-cm-rak-dinding-cokelat-oak.html",
+      "size": {
+        "w": 90,
+        "d": 20,
+        "h": 1.8
+      },
+      "specs": null,
+      "model": {
+        "style": "plank",
+        "finish": "oak"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "azko-masterspace-60-white",
+      "store": "AZKO",
+      "category": "shelf",
+      "name": "Masterspace Rak Dinding 60x25x1.8 cm - Putih",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/masterspace-rak-dinding-60x25x1-8-cm-putih.html",
+      "size": {
+        "w": 60,
+        "d": 25,
+        "h": 1.8
+      },
+      "specs": null,
+      "model": {
+        "style": "plank",
+        "finish": "white"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "azko-stora-90-oak",
+      "store": "AZKO",
+      "category": "shelf",
+      "name": "Stora Rak Dinding Kayu 90x25x1.8 cm - Cokelat Oak",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/stora-rak-dinding-kayu-90x25x1-8-cm-cokelat-oak.html",
+      "size": {
+        "w": 90,
+        "d": 25,
+        "h": 1.8
+      },
+      "specs": null,
+      "model": {
+        "style": "plank",
+        "finish": "oak"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "informa-rak-dinding-60-light-grey",
+      "store": "INFORMA",
+      "category": "shelf",
+      "name": "Rak Dinding 60x23.5x3.8 cm - Abu-Abu Muda",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/informastore/p/rak-dinding-60x23-5x3-8-cm-abu-abu-muda.html",
+      "size": {
+        "w": 60,
+        "d": 23.5,
+        "h": 3.8
+      },
+      "specs": null,
+      "model": {
+        "style": "plank",
+        "finish": "light-grey"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "ikea-bussfil-120x180-beige",
+      "store": "IKEA",
+      "category": "rug",
+      "name": "BUSSFIL karpet, bulu tipis, krem, 120x180 cm",
+      "sku": "005.888.06",
+      "price": 999000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/karpet-keset-pintu-dan-aksesoris/karpet/bussfil-art-00588806",
+      "size": {
+        "w": 180,
+        "d": 120,
+        "h": 0.2
+      },
+      "specs": "Panjang: 180 cm; Lebar: 120 cm; Ketebalan: 2 mm; Area: 2,16 m²; Kepadatan: 700 g/m²",
+      "model": {
+        "base": "#e2d6c2",
+        "accent": "#cdbfa6",
+        "pattern": "plain"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-bussfil-200x300-beige",
+      "store": "IKEA",
+      "category": "rug",
+      "name": "BUSSFIL karpet, bulu tipis, krem, 200x300 cm",
+      "sku": "605.888.08",
+      "price": 2999000,
+      "stock": "OutOfStock",
+      "url": "https://www.ikea.co.id/in/produk/karpet-keset-pintu-dan-aksesoris/karpet/bussfil-art-60588808",
+      "size": {
+        "w": 300,
+        "d": 200,
+        "h": 1.3
+      },
+      "specs": "Panjang: 300 cm; Lebar: 200 cm; Ketebalan: 13 mm; Area: 6,00 m²; Kepadatan: 3200 g/m²",
+      "model": {
+        "base": "#e2d6c2",
+        "accent": "#cdbfa6",
+        "pattern": "plain"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": ""
+      }
+    },
+    {
+      "id": "ikea-hybridspirea-170x230-beige",
+      "store": "IKEA",
+      "category": "rug",
+      "name": "HYBRIDSPIREA karpet bulu tipis, krem, 170 x 230 cm",
+      "sku": "000.018.88",
+      "price": 799000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/karpet-keset-pintu-dan-aksesoris/karpet-kecil/hybridspirea-art-00001888",
+      "size": {
+        "w": 230,
+        "d": 170,
+        "h": 1
+      },
+      "specs": null,
+      "model": {
+        "base": "#ddd0bb",
+        "accent": "#b9a688",
+        "pattern": "border"
+      },
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok). Tabel ukuran di halaman kosong, ukuran diambil dari nama produk resmi.",
+        "note": "Ketebalan tidak tercantum; model memakai 1 cm."
+      }
+    },
+    {
+      "id": "ikea-kurilerlark-160x230-beige",
+      "store": "IKEA",
+      "category": "rug",
+      "name": "KURILERLARK karpet bulu tebal, krem, 160 x 230 cm",
+      "sku": "000.018.90",
+      "price": 899000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/karpet-keset-pintu-dan-aksesoris/karpet-kecil/kurilerlark-art-00001890",
+      "size": {
+        "w": 230,
+        "d": 160,
+        "h": 1
+      },
+      "specs": null,
+      "model": {
+        "base": "#e6dccb",
+        "accent": "#d2c4ac",
+        "pattern": "plain"
+      },
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok). Tabel ukuran di halaman kosong, ukuran diambil dari nama produk resmi.",
+        "note": "Ketebalan tidak tercantum; model memakai 1 cm."
+      }
+    },
+    {
+      "id": "ikea-dvargtry-170x230-grey",
+      "store": "IKEA",
+      "category": "rug",
+      "name": "DVARGTRY karpet tenun datar, abu-abu, 170 x 230 cm",
+      "sku": "000.018.84",
+      "price": 499000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/karpet-keset-pintu-dan-aksesoris/karpet-kecil/dvargtry-art-00001884",
+      "size": {
+        "w": 230,
+        "d": 170,
+        "h": 1
+      },
+      "specs": null,
+      "model": {
+        "base": "#a9a7a2",
+        "accent": "#8b8984",
+        "pattern": "stripe"
+      },
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok). Tabel ukuran di halaman kosong, ukuran diambil dari nama produk resmi.",
+        "note": "Ketebalan tidak tercantum; model memakai 1 cm."
+      }
+    },
+    {
+      "id": "ikea-shufu-120x160-beige",
+      "store": "IKEA",
+      "category": "rug",
+      "name": "SHUFU Karpet motif abstrak – krem 120×160",
+      "sku": "000.017.88",
+      "price": 399000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/karpet-keset-pintu-dan-aksesoris/karpet-kecil/shufu-art-00001788",
+      "size": {
+        "w": 160,
+        "d": 120,
+        "h": 1
+      },
+      "specs": null,
+      "model": {
+        "base": "#e4d8c4",
+        "accent": "#b49a78",
+        "pattern": "diamond"
+      },
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok). Tabel ukuran di halaman kosong, ukuran diambil dari nama produk resmi.",
+        "note": "Ketebalan tidak tercantum; model memakai 1 cm."
+      }
+    },
+    {
+      "id": "informa-glyn-160x230-brown",
+      "store": "INFORMA",
+      "category": "rug",
+      "name": "Informa Glyn Karpet 160x230 cm - Cokelat",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/informastore/p/informa-glyn-karpet-160x230-cm-cokelat.html",
+      "size": {
+        "w": 230,
+        "d": 160,
+        "h": 1
+      },
+      "specs": null,
+      "model": {
+        "base": "#8a6a52",
+        "accent": "#6e5241",
+        "pattern": "plain"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "informa-allegra-160x220-beige",
+      "store": "INFORMA",
+      "category": "rug",
+      "name": "Informa 160x220 cm Allegra Karpet - Krem Beige",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/informastore/p/informa-160x220-cm-allegra-karpet-krem-beige.html",
+      "size": {
+        "w": 220,
+        "d": 160,
+        "h": 1
+      },
+      "specs": null,
+      "model": {
+        "base": "#e1d3bb",
+        "accent": "#c4ad8a",
+        "pattern": "border"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "ikea-ginstmott-white",
+      "store": "IKEA",
+      "category": "curtain",
+      "name": "GINSTMOTT gorden, 1 pasang, putih/dengan pita pos, 145x250 cm",
+      "sku": "205.971.69",
+      "price": 449000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/gorden-dan-tirai/gorden-dan-panel-jendela/ginstmott-art-20597169",
+      "size": {
+        "w": 145,
+        "d": 0,
+        "h": 250
+      },
+      "specs": "Panjang: 250 cm; Lebar: 145 cm; Area: 3,63 m²; Lebar/tirai: 145 cm",
+      "model": {
+        "style": "panels",
+        "panels": 2,
+        "color": "#f3f1ea"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "1 pasang = 2 panel; ukuran adalah lebar × tinggi per panel."
+      }
+    },
+    {
+      "id": "ikea-masterrot-beige-dots",
+      "store": "IKEA",
+      "category": "curtain",
+      "name": "MÄSTERROT gorden, 1 pasang, krem/putih pola titik-titik/dengan pita pos, 145x250 cm",
+      "sku": "206.025.66",
+      "price": 299000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/gorden-dan-tirai/gorden-dan-panel-jendela/masterrot-art-20602566",
+      "size": {
+        "w": 145,
+        "d": 0,
+        "h": 250
+      },
+      "specs": "Area: 3,63 m²; Panjang: 250 cm; Lebar: 145 cm; Lebar/tirai: 145 cm",
+      "model": {
+        "style": "panels",
+        "panels": 2,
+        "color": "#ece2d0"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "1 pasang = 2 panel; ukuran adalah lebar × tinggi per panel."
+      }
+    },
+    {
+      "id": "ikea-stenfro-sheer-grey",
+      "store": "IKEA",
+      "category": "curtain",
+      "name": "STENFRÖ gorden tipis, 1 pasang, abu-abu/dengan pita pos, 145x250 cm",
+      "sku": "405.948.86",
+      "price": 279000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/gorden-dan-tirai/gorden-dan-panel-jendela/stenfro-art-40594886",
+      "size": {
+        "w": 145,
+        "d": 0,
+        "h": 250
+      },
+      "specs": "Area: 3,63 m²; Panjang: 250 cm; Lebar: 145 cm; Lebar/tirai: 145 cm",
+      "model": {
+        "style": "panels",
+        "panels": 2,
+        "color": "#cfcfcc",
+        "sheer": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "1 pasang = 2 panel; ukuran adalah lebar × tinggi per panel."
+      }
+    },
+    {
+      "id": "ikea-sanela-light-beige",
+      "store": "IKEA",
+      "category": "curtain",
+      "name": "SANELA gorden, 1 pasang, krem muda/dengan pita pos, 140x250 cm",
+      "sku": "005.898.77",
+      "price": 1049000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/gorden-dan-tirai/gorden-dan-panel-jendela/sanela-art-00589877",
+      "size": {
+        "w": 140,
+        "d": 0,
+        "h": 250
+      },
+      "specs": "Area: 3,50 m²; Panjang: 250 cm; Lebar: 140 cm",
+      "model": {
+        "style": "panels",
+        "panels": 2,
+        "color": "#e3d6c0"
+      },
+      "verification": {
+        "status": "verified",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok) dan tabel \"Ukuran\".",
+        "note": "1 pasang = 2 panel; ukuran adalah lebar × tinggi per panel."
+      }
+    },
+    {
+      "id": "ikea-ransiki-beige",
+      "store": "IKEA",
+      "category": "curtain",
+      "name": "RANSIKI gorden, 1 pasang, krem, 145x250 cm",
+      "sku": "000.018.45",
+      "price": 349000,
+      "stock": "InStock",
+      "url": "https://www.ikea.co.id/in/produk/gorden-dan-tirai/gorden-dan-panel-jendela/ransiki-art-00001845",
+      "size": {
+        "w": 145,
+        "d": 0,
+        "h": 250
+      },
+      "specs": null,
+      "model": {
+        "style": "panels",
+        "panels": 2,
+        "color": "#e2d5bf"
+      },
+      "verification": {
+        "status": "partial",
+        "checked": "2026-10-24",
+        "source": "Halaman produk resmi ikea.co.id: data terstruktur (nama, harga, nomor artikel, stok). Tabel ukuran di halaman kosong, ukuran diambil dari nama produk resmi.",
+        "note": "1 pasang = 2 panel; ukuran adalah lebar × tinggi per panel."
+      }
+    },
+    {
+      "id": "informa-xena-blackout-beige",
+      "store": "INFORMA",
+      "category": "curtain",
+      "name": "Informa Xena Gorden Blackout Polyester 140x250 cm Set 2 Pcs - Krem Beige",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/informastore/p/informa-xena-gorden-blackout-polyester-140x250-cm-set-2-pcs-krem-beige.html",
+      "size": {
+        "w": 140,
+        "d": 0,
+        "h": 250
+      },
+      "specs": null,
+      "model": {
+        "style": "panels",
+        "panels": 2,
+        "color": "#d9c8ad"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "azko-arai-roller-120-white",
+      "store": "AZKO",
+      "category": "curtain",
+      "name": "Arai 120x250 cm Gorden Roller Blind Solar Screen - Putih",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/arai-120x250-cm-gorden-roller-blind-solar-screen-putih.html",
+      "size": {
+        "w": 120,
+        "d": 0,
+        "h": 250
+      },
+      "specs": null,
+      "model": {
+        "style": "roller",
+        "color": "#efede7",
+        "sheer": true
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    },
+    {
+      "id": "azko-arai-roller-90-brown",
+      "store": "AZKO",
+      "category": "curtain",
+      "name": "Arai 90x250 cm Gorden Roller Blind Dimout - Cokelat",
+      "sku": null,
+      "price": null,
+      "stock": null,
+      "url": "https://www.ruparupa.com/azko/p/arai-90x250-cm-gorden-roller-blind-dimout-cokelat.html",
+      "size": {
+        "w": 90,
+        "d": 0,
+        "h": 250
+      },
+      "specs": null,
+      "model": {
+        "style": "roller",
+        "color": "#8a6d55"
+      },
+      "verification": {
+        "status": "unverified",
+        "checked": null,
+        "source": "Nama & alamat dari sitemap resmi ruparupa.com; ukuran dari nama produk pada alamat URL.",
+        "note": "Harga, stok, dan ukuran belum dicek di halaman produk karena situs membatasi akses otomatis. Periksa manual sebelum membeli."
+      }
+    }
+  ]
+}
